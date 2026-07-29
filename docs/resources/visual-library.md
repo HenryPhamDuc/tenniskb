@@ -22,7 +22,7 @@
 
 | Image | Chapter | Description |
 |-------|---------|-------------|
-| `core-system-map.png` | All | Master chain: Q→V→ROOT→F→P→T→SSC→8→45°→BRAKE→PULSE→JIN |
+| `core-system-map.jpg` | All | Master chain: Q→V→ROOT→F→P→T→SSC→8→45°→BRAKE→PULSE→JIN |
 | `core-equation.png` | 7 | CORE = Q+V+ROOT+8+BRAKE+PULSE visual formula |
 | `three-zones.png` | 7 | Input (Q,V,ROOT) → Process (F,P,T,SSC,8,45°) → Output (BRAKE,PULSE,JIN) |
 | `core-loop.png` | 7 | Per-shot loop: Park → Load → 8 → Brake → Pulse → Jin |

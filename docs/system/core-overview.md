@@ -85,7 +85,7 @@ CORE = Q + V + ROOT + 8 + BRAKE + PULSE
 
 ## Visual: The Master Diagram
 
-![CORE System Map](../../assess/images/core-system-map.png)
+![CORE System Map](../../assess/images/core-system-map.jpg)
 
 *Every chapter references this map. Print it. Keep it in your bag.*
 
