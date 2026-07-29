@@ -1,3 +1,7 @@
+# Source files (not served, used only for rebuilding site/)
+/docs/
+/mkdocs.yml
+
 # Python
 __pycache__/
 *.py[cod]
