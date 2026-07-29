@@ -3,17 +3,16 @@
 site_name: TennisKB
 site_description: The Q-V-ROOT-8-45-Impulse-Jin System — Complete Tennis Biomechanics
 site_author: Henry Pham Duc
-site_url: https://tenniskb.github.io
+site_url: https://henryphamduc.github.io/tenniskb/
 
-repo_name: tenniskb/tenniskb.github.io
-repo_url: https://github.com/tenniskb/tenniskb.github.io
+repo_name: HenryPhamDuc/tenniskb.github.io
+repo_url: https://github.com/HenryPhamDuc/tenniskb.github.io
 edit_uri: edit/main/docs/
 
 copyright: © 2025 Henry Pham Duc. All rights reserved.
 
 theme:
   name: material
-  language: en
   palette:
     - scheme: default
       primary: indigo
